@@ -11,6 +11,7 @@ Please reach out if there's anything you're interested in that I'm involved with
 
 TO DO:
 - make github profile look pretty
+- Add more features to Flockwise
 - Spotify application for Andrew
 - App to track when selected items go on a discount
 - Fix up Toyota project for HackX
