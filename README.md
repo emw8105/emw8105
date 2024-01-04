@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Evan Wright
-- I am currently studying Computer Science at UTD as a Senior with plans to pursue a Master's Degree
-- I'm interested in various fields relating to CS, at the moment I'm curious about Cyber Security opportunities
+- I am currently studying Computer Science at UTD as a Senior while pursuing a Masters in Computer Science concurrently
+- I'm interested in various fields relating to CS, at the moment I'm curious about Cyber Security opportunities as that is the focus of my graduate education
 - I'm actively pursuing internships for the coming summer and have a desire to continue my industry experience
-- I'm Currently grinding finals but I have a few project ideas I'm invested in for the winter, check back once I make it out the other side 😤
+- Some of my activity is split on a couple of different emails and some of it is privated, but the work is all consolidated here
+- Feel free to look through anything visible and if any of the hidden repositories sound interesting or useful I'm more than happy to share
 
 I've uploaded various projects and assignments from my time in school to demonstrate my skills, as well as various
 personal projects, hope you enjoy some of my projects and my work
