@@ -18,6 +18,15 @@ TO DO:
 - Fix up Toyota project for HackX
 
 <!---
+I don't like this because it doesn't include repositories owned by other people, so no Dart/Flutter, no JavaScript/TypeScript, and also no private repositories so no C#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emw8105&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+--->
+<!---
+I don't like this because it makes me look bad 🥺, I need more repositories that are public and I own for this stat to be worth flexing
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emw8105&show_icons=true&theme=aura_dark)
+--->
+
+<!---
 emw8105/emw8105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
