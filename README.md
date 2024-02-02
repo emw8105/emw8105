@@ -12,12 +12,18 @@ personal projects, hope you enjoy some of my projects and my work
 Please reach out if there's anything you're interested in that I'm involved with!
 
 
-<!---
+
 ## Languages and Tools
+### Professional Experience
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,js,css,html,"> </a> </p>
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
---->
+### Personal Experience
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,js,ts,css,html,flutter,dart,figma"> </a> </p>
 
+<!---
+## Find me at:
+// linkedin icon, gmail icon, discord icon, maybe insta?
+---->
 
 ## Profile Views
 
