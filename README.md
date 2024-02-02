@@ -11,6 +11,14 @@ personal projects, hope you enjoy some of my projects and my work
 
 Please reach out if there's anything you're interested in that I'm involved with!
 
+
+<!---
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+--->
+
+
 ## Profile Views
 
   <table>
