@@ -9,7 +9,7 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 <p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,js,ts,css,html,flutter,dart,figma"> </a> </p>
 
 ## Things I'm Doing:
-- 🧑‍🎨 Making GitHub profile look pretty / Making a profile site 
+- 🎨 Making GitHub profile look pretty / Making a profile site 
 - 🎶 Developing Spotify wallpaper web app (Node.js/React.js)
 - 📈 Cooking up a LinkedIn data analytics app idea (reviewing api pricing first)
 - 🐥 Adding more features to Flockwise
