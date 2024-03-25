@@ -1,5 +1,5 @@
 # Hello there!! 👋
-My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some of my activity is split into different emails so the commits aren't logged under this account, but the work is all consolidated here. I've also uploaded various projects and assignments from my time in school (which skews my language distribution to favor C/C++, Java, and Assembly) as well as various personal projects, hope you enjoy some of my projects and my work. Please reach out if there's anything you're interested in that I'm involved with!
+My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some of my activity is split across different emails so the commits aren't logged under this account, but the work is all consolidated here. I've also uploaded various projects and assignments from my time in school (which skews my language distribution to favor C/C++, Java, and Assembly) as well as various personal projects, hope you enjoy some of my projects and my work. Please reach out if there's anything you're interested in that I'm involved with!
 
 ## Languages and Tools
 ### Professional Experience
@@ -22,15 +22,8 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 ---->
 
 <!---
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/emw8105">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emw8105&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-<!---
 ## Top Respositorys
+- ideally, top repos are FNF, Flockwise, and Visio Parser
   <p align="left">
      <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
