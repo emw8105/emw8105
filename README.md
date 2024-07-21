@@ -9,9 +9,9 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 <p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,js,ts,css,html,flutter,dart,figma"> </a> </p>
 
 ## Things I'm Doing:
+- 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/ANaq21/SAGE)
 - 🔠 **Wordle Bot**: Just finished developing a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
 - 🎶 **SpotiWall**: Making a web app to turn your Spotify playlists into wallpapers - [See here! (only backend so far teehee)](https://github.com/emw8105/SpotiWall)
-- 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/ANaq21/SAGE)
 - 👨‍🎓 **AWS Certifications**: Studying rn (CCP, Dev, SA)
 - 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
 - 📈 **LinkedIn Data Analytics**: Cooking up a LinkedIn data analytics app idea (API pricing may doom this)
