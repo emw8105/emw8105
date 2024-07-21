@@ -3,10 +3,10 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 
 ## Languages and Tools
 ### Professional Experience
-<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,js,css,html,"> </a> </p>
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,react,express,js,css,html,"> </a> </p>
 
 ### Personal Experience
-<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,js,ts,css,html,flutter,dart,figma"> </a> </p>
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,express,js,ts,css,html,flutter,dart,androidstudio,figma"> </a> </p>
 
 ## Things I'm Doing:
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/ANaq21/SAGE)
