@@ -10,6 +10,7 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 
 ## Things I'm Doing:
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
+- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
 - 🔠 **Wordle Bot**: Just finished developing a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
 - 🎶 **SpotiWall**: Making a web app to turn your Spotify playlists into wallpapers - [See here! (only backend so far teehee)](https://github.com/emw8105/SpotiWall)
 - 👨‍🎓 **AWS Certifications**: Studying rn (CCP, Dev, SA)
