@@ -1,5 +1,7 @@
 # Hello there!! 👋
-My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some of my activity is split across different emails so the commits aren't logged under this account, but the work is all consolidated here. I've also uploaded various projects and assignments from my time in school (which skews my language distribution to favor C/C++, Java, and Assembly) as well as various personal projects, hope you enjoy some of my projects and my work. Please reach out if there's anything you're interested in that I'm involved with!
+I'm Evan, a current student at UTD pursuing a Master's in Computer Science. My GitHub is a hub for all my projects—academic, professional, and personal. While some of my work spans different emails, I've consolidated everything here to showcase the diversity of my skills and interests. In school, I primarily used Java/C++ with some Assembly, but the remainder of my endeavors have built a strong foundation in a fun mix of languages and tools. 
+
+Feel free to explore my projects, and don’t hesitate to reach out if you see something that sparks your interest. Collaboration and learning are at the heart of what I do, and I'm always open to new ideas and challenges!
 
 ## Languages and Tools
 ### Professional Experience
@@ -25,23 +27,18 @@ My name is Evan, I'm currently a student at UTD pursuing a Master's in CS. Some 
 // linkedin icon, gmail icon, discord icon, maybe insta?
 ---->
 
-<!---
-## Top Respositorys
-- ideally, top repos are FNF, Flockwise, and Visio Parser
-  <p align="left">
-     <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
---->
+## Featured Repositories
+<p align="left">
+  <a href="https://github.com/TheSAGEProject/SAGE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheSAGEProject&repo=SAGE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SAGE"></a>
+  <a href="https://github.com/emw8105/visio-parser-tool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=visio-parser-tool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Visio Parser"></a>
+  <a href="https://github.com/emw8105/wordle-solver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=wordle-solver&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Worlde Solver"></a>
+</p>
 
 <!---
 ## My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emw8105&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emw8105&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emw8105&show_icons=true&theme=aura_dark)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emw8105&show_icons=true&theme=radical)
 --->
 
 ## Profile Views
