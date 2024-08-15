@@ -3,14 +3,14 @@ I'm Evan, a current student at UTD pursuing a Master's in Computer Science. My G
 
 Feel free to explore my projects, and don’t hesitate to reach out if you see something that sparks your interest. Collaboration and learning are at the heart of what I do, and I'm always open to new ideas and challenges!
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 ### Professional Experience
 <p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,react,express,js,css,html,"> </a> </p>
 
 ### Personal Experience
 <p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,express,js,ts,css,html,flutter,dart,androidstudio,figma"> </a> </p>
 
-## Things I'm Doing:
+## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
 - ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
 - 🔠 **Wordle Bot**: Just finished developing a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
@@ -22,43 +22,34 @@ Feel free to explore my projects, and don’t hesitate to reach out if you see s
 - 🚗 **Toyota Project**: Need to fix up Toyota project for HackX - [Vroom vroom](https://github.com/ANaq21/hackx)
 - 💀 **University**: Surviving grad school
 
-<!---
-## Find me at:
-// linkedin icon, gmail icon, discord icon, maybe insta?
----->
-
-## Featured Repositories
+## ⭐ Featured Repositories
 <p align="left">
   <a href="https://github.com/TheSAGEProject/SAGE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheSAGEProject&repo=SAGE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SAGE"></a>
   <a href="https://github.com/emw8105/visio-parser-tool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=visio-parser-tool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Visio Parser"></a>
   <a href="https://github.com/emw8105/wordle-solver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=wordle-solver&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Worlde Solver"></a>
 </p>
 
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/evan-wright-718a15258/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:evanmatt.wright@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+## 📊 Profile Stats
+
+<p align="left">
+  <a href="https://github.com/emw8105">
+    <img src="https://komarev.com/ghpvc/?username=emw8105&style=for-the-badge&color=yellow" alt="Profile Views">
+  </a>
+</p>
+
 <!---
-## My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emw8105&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emw8105&show_icons=true&theme=radical)
 --->
-
-## Profile Views
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/emw8105"><img src="https://github.com/emw8105.png" alt="@emw8105" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/emw8105"><b>emw8105</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/emw8105"> <img src="https://komarev.com/ghpvc/?username=emw8105&style=for-the-badge&color=blue"> </a>
-      </td>
-    </tr>
-  </table>
