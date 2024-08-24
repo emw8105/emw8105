@@ -14,7 +14,7 @@ Feel free to explore my projects, and don’t hesitate to reach out if you see s
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
 - ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
 - 🔠 **Wordle Bot**: Just finished developing a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
-- 🎶 **SpotiWall**: Making a web app to turn your Spotify playlists into wallpapers - [See here! (only backend so far teehee)](https://github.com/emw8105/SpotiWall)
+- 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
 - 👨‍🎓 **AWS Certifications**: Studying rn (CCP, Dev, SA)
 - 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
 - 📈 **LinkedIn Data Analytics**: Cooking up a LinkedIn data analytics app idea (API pricing may doom this)
