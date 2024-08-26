@@ -12,15 +12,11 @@ Feel free to explore my projects, and don’t hesitate to reach out if you see s
 
 ## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
-- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
-- 🔠 **Wordle Bot**: Just finished developing a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
 - 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
-- 👨‍🎓 **AWS Certifications**: Studying rn (CCP, Dev, SA)
+- 🔠 **Wordle Bot**: finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
+- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
 - 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
-- 📈 **LinkedIn Data Analytics**: Cooking up a LinkedIn data analytics app idea (API pricing may doom this)
-- 🐥 **Flockwise**: Adding more features to Flockwise - [Peep](https://github.com/devAgant/Flockwise)
-- 🚗 **Toyota Project**: Need to fix up Toyota project for HackX - [Vroom vroom](https://github.com/ANaq21/hackx)
-- 💀 **University**: Surviving grad school
+- 💀 **University**: Managing grad school atm
 
 ## ⭐ Featured Repositories
 <p align="left">
