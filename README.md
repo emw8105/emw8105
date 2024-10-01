@@ -13,7 +13,7 @@ Feel free to explore my projects, and don’t hesitate to reach out if you see s
 ## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
 - 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
-- 🔠 **Wordle Bot**: finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
+- 🔠 **Wordle Bot**: Finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
 - ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
 - 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
 - 💀 **University**: Managing grad school atm
