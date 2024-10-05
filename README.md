@@ -1,7 +1,7 @@
 # Hello there!! 👋
-I'm Evan, a current student at UTD pursuing a Master's in Computer Science. My GitHub is a hub for all my projects—academic, professional, and personal. While some of my work spans different emails, I've consolidated everything here to showcase the diversity of my skills and interests. In school, I primarily used Java/C++ with some Assembly, but the remainder of my endeavors have built a strong foundation in a fun mix of languages and tools. 
+I'm Evan, a current student at UTD pursuing a Master's in Computer Science. This page is a collection of some of my projects (academic, professional, and personal), as well as a consolidation of work I've done on a few different emails. In school, I primarily used Java/C++ with some Assembly so some programs are using those. However, for personal projects with more freedom, I enjoy web development using Javascript and other supporting technologies, as well as Python. I'm very interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across when making some cool things.
 
-Feel free to explore my projects, and don’t hesitate to reach out if you see something that sparks your interest. Collaboration and learning are at the heart of what I do, and I'm always open to new ideas and challenges!
+Feel free to explore my projects, and don’t hesitate to reach out if you see something that sparks your interest (or if you have any ideas 😎). I love collaborating and learning, and I'm always open to new challenges and fresh perspectives!!
 
 ## 🛠️ Languages and Tools
 ### Professional Experience
