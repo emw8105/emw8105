@@ -12,6 +12,7 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 
 ## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
+- 🧠 **Psychology Site Freelancing**: Designing and building an personal website for a clinical psychologist - [Work in progress](https://github.com/emw8105/ishan-psych-profile)
 - 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
 - 🔠 **Wordle Bot**: Finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
 - ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
