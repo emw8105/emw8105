@@ -8,7 +8,7 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 <p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,react,express,js,css,html,"> </a> </p>
 
 ### Personal Experience
-<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,vercel,github,aws,postman,c,cpp,cs,java,py,nodejs,react,express,js,ts,css,html,flutter,dart,androidstudio,figma"> </a> </p>
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,dynamodb,gcp,vercel,github,aws,postman,docker,go,c,cpp,cs,java,py,nodejs,react,next,express,js,ts,css,html,tailwind,flutter,dart,androidstudio,figma,bash"> </a> </p>
 
 ## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students - [SAGE](https://github.com/TheSAGEProject)
