@@ -21,9 +21,9 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 
 ## ⭐ Featured Repositories
 <p align="left">
-  <a href="https://github.com/TheSAGEProject/SAGE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheSAGEProject&repo=SAGE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SAGE"></a>
+  <a href="https://github.com/acmutd/sage-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheSAGEProject&repo=SAGE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SAGE"></a>
   <a href="https://github.com/emw8105/visio-parser-tool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=visio-parser-tool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Visio Parser"></a>
-  <a href="https://github.com/emw8105/SpotiWall"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=SpotiWall&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpotiWall"></a>
+  <a href="https://github.com/emw8105/Wallify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emw8105&repo=SpotiWall&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Wallify"></a>
 </p>
 
 ## 🌐 Socials
