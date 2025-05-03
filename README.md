@@ -1,5 +1,5 @@
 # Hello there!! 👋
-I'm Evan, a current student at UTD pursuing a Master's in Computer Science. This page is a collection of some of my projects (academic, professional, and personal), as well as a consolidation of work I've done on a few different emails. In school, I primarily used Java/C++ with some Assembly so some programs are using those. However, for personal projects with more freedom, I enjoy web development using Javascript and other supporting technologies, as well as Python. I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across when making some cool things.
+I'm Evan, a current student at UTD pursuing a Master's in Computer Science. This page is a collection of some of my projects (academic, professional, and personal), as well as a consolidation of work I've done on a few different emails. For personal projects with more freedom, I enjoy web development using JavaScript and other supporting technologies, as well as Python. I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across when making some cool things.
 
 Feel free to explore my projects, don’t hesitate to reach out if you see something that sparks your interest (or if you have any ideas 😎). I love collaborating and learning, and I'm always open to new challenges and fresh perspectives!!
 
@@ -15,9 +15,8 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 - 🧠 **Psychology Site Freelancing**: Designing and building a personal website for a clinical psychologist - [Work in progress](https://github.com/emw8105/ishan-psych-profile)
 - 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
 - 🔠 **Wordle Bot**: Finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
-- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
-- 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
-- 💀 **University**: Managing grad school atm
+- 🎨 **Profile Site**: Making my GitHub profile look cute and planning to build a site - [Look here!](https://github.com/emw8105/emw8105)
+- 🧑‍🎓 **University**: Managing grad school atm
 
 ## ⭐ Featured Repositories
 <p align="left">
