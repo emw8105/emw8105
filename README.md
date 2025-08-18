@@ -5,10 +5,10 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 
 ## 🛠️ Languages and Tools
 ### Professional Experience
-<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,nodejs,react,express,js,css,html,"> </a> </p>
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=azure,github,aws,postman,cs,spring,maven,nodejs,react,express,js,ts,css,html,"> </a> </p>
 
 ### Personal Experience
-<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,mongodb,dynamodb,gcp,vercel,github,aws,postman,docker,go,c,cpp,cs,java,py,nodejs,react,next,express,js,ts,css,html,tailwind,flutter,dart,androidstudio,figma,bash"> </a> </p>
+<p align="left"> <a href="https://github.com/emw8105"><img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,dynamodb,gcp,vercel,github,aws,postman,cloudflare,nginx,docker,go,c,cpp,cs,java,py,selenium,fastapi,nodejs,react,next,svelte,express,js,ts,css,html,tailwind,flutter,dart,androidstudio,gradle,figma,bash,terraform"> </a> </p>
 
 ## 📌 Things I'm Doing
 - 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students as a Development Lead for [ACM UTD](https://github.com/acmutd) - [Try it!](https://github.com/acmutd/sage-site)
