@@ -12,7 +12,7 @@ Feel free to explore my projects, don’t hesitate to reach out if you see somet
 
 ## 📌 Things I'm Doing
 - 💻 **ACM UTD**: Collaborating to build cool software as the Director of Development for [ACM UTD](https://github.com/acmutd)
-- 🎨 **Profile Site**: Making my GitHub profile look cute and building a portfolio site - [Look here!](https://github.com/emw8105/potfolio)
+- 🎨 **Profile Site**: Making my GitHub profile look cute and building a portfolio site - [Look here!](https://github.com/emw8105/portfolio)
 - 🧠 **Psychology Site Freelancing**: Designing and building a personal website for a clinical psychologist - [Work in progress](https://github.com/emw8105/ishan-psych-profile)
 - 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
 - 🔠 **Wordle Bot**: Wrapping up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
